@@ -1,0 +1,6 @@
+id_ed25519*
+.env
+*.pem
+*.key
+.bash_history
+*.log
